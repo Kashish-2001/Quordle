@@ -8,7 +8,7 @@ function Letter({ letter, i, j, k }) {
   const almost = !correct && letter !== '' && correctWords[i].includes(letter);
   const letterState =
     currAttempt.attempt > j &&
-    (correct ? 'correct' : almost ? 'almost' : !complete[i] ? 'wrong' : '');
+    (correct ? 'correct' : almost ? 'almost' : letter === '' ? '' : 'wrong');
 
   useEffect(() => {
     if (letter !== '' && !correct && !almost) {
