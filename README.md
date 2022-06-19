@@ -1,5 +1,5 @@
 # Quordle
-Quordle is a word-guessing game, similar to Wordle. You will have to guess 4 diffrent words by using only 8 guesses. 
+Quordle is a word-guessing game, similar to Wordle. You will have to guess 4 different words by using only 8 guesses. 
 
 #### Techstack: ReactJS, Tailwind CSS, Context for state management
 #### Website Link: https://quordle-kashish-2001.vercel.app/
