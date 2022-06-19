@@ -1,3 +1,20 @@
+# Quordle
+Quordle is a word-guessing game, similar to Wordle. You will have to guess 4 diffrent words by using only 8 guesses. 
+
+Here are some screenshots of the website:
+![Screenshot from 2022-06-19 07-09-45](https://user-images.githubusercontent.com/55633445/174462818-9155c396-15fb-4462-8ae2-598b04370c8b.png)
+![Screenshot from 2022-06-19 07-15-30](https://user-images.githubusercontent.com/55633445/174462819-5a439904-0882-4d49-970c-aadaeee79b53.png)
+![Screenshot from 2022-06-19 07-16-30](https://user-images.githubusercontent.com/55633445/174462827-9ffc3089-8774-4003-aac5-4a3988981ae8.png)
+![Screenshot from 2022-06-19 07-19-39](https://user-images.githubusercontent.com/55633445/174462883-7171b06a-3296-422e-bcaa-4417a7f018a8.png)
+![Screenshot from 2022-06-19 07-38-24](https://user-images.githubusercontent.com/55633445/174462957-39c87701-200c-479d-b138-8db104010442.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
